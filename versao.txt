@@ -1,0 +1,1 @@
+1.01 | URL Base | firmware.bin | 1795408 | Hash SHA-256
