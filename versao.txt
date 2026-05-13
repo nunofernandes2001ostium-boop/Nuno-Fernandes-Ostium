@@ -1,1 +1,1 @@
-1.01 | https://github.com/nunofernandes2001ostium-boop/Nuno-Fernandes-Ostium/raw/refs/heads/main/firmware.bin | firmware.bin | 1802240 | 7be983cb46de64cb9d76f974f8561261c7ccf85a
+1.01|https://raw.githubusercontent.com/nunofernandes2001ostium-boop/Nuno-Fernandes-Ostium/main/|firmware.bin|1802240|5a32b0fc84cdcbb2a7b574d22f160a958153e406833f3d285723d219ad8e523c
