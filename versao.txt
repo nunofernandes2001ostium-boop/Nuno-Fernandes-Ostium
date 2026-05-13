@@ -1,1 +1,1 @@
-1.01 | URL Base | firmware.bin | 1795408 | 777d8155ce84b702656854fb415579976540b463
+1.01 | https://github.com/nunofernandes2001ostium-boop/Nuno-Fernandes-Ostium/raw/refs/heads/main/firmware.bin | firmware.bin | 1802240 | 7be983cb46de64cb9d76f974f8561261c7ccf85a
