@@ -1,1 +1,1 @@
-1.01|https://raw.githubusercontent.com/nunofernandes2001ostium-boop/Nuno-Fernandes-Ostium/main/|firmware.bin|1800528|5f929a0fa6b06fb40f1c1435c89013e1aafe9fcc3887cd8b48dc80331f4f84f2
+1.01|https://raw.githubusercontent.com/nunofernandes2001ostium-boop/Nuno-Fernandes-Ostium/main/|firmware.bin|2042208|5f929a0fa6b06fb40f1c1435c89013e1aafe9fcc3887cd8b48dc80331f4f84f2
